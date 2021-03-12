@@ -1,0 +1,60 @@
+leader
+
+github.com သွားပြီး
+->create New Repository 
+
+
+->Pj folder
+	->bootstrap
+	->images
+	->jq
+	->index.html (include navbar)
+
+cmd နဲ့ pj folder open
+	->git init
+	->git remote add origin (url)
+	->git remote show origin
+	->git status
+	->git add .
+	->git commit -m "message"
+		->git config --global user.email "you@gmail.com"
+		->git config --global user.name "github username"
+	->git commit -m "message"
+	->git push -u origin master
+
+
+	Invite Collabrator team member
+
+
+
+-------------------------------
+
+
+Team Member 
+
+	->gamil accept invite
+	->git clone (url)
+	->cd pj floder ၀င်
+	
+	->git status
+	->git add .
+	->git commit -m "message"
+	->git pull
+	->git push -u origin master
+
+
+--------------------------------
+
+	l & t
+
+	->git status
+	->git add .
+	->git commit -m "message"
+	->git pull
+	->git push -u origin master
+
+
+
+
+
+
